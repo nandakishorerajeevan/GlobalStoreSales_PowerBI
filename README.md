@@ -169,7 +169,7 @@ obtained from Kaggle</b>. The raw data contains information related to:
 <h2>🖼️ Dashboard Preview</h2>
 
 <p align="center">
-  <img src="images/global-superstore-dashboard.png"
+  <img src="dashboard-img"
        width="900"
        alt="Global SuperStore Power BI Dashboard">
 </p>
@@ -183,7 +183,7 @@ information.
 </p>
 
 <p align="center">
-  <img src="images/data-model.png"
+  <img src="datamodel-img"
        width="700"
        alt="Global SuperStore Data Model">
 </p>
@@ -249,7 +249,7 @@ Global-SuperStore-PowerBI/
 └── README.md
 </pre>
 
-<h2>👨‍💻 Author</h2>
+<h2>👨‍💻 @nandakishorerajeevan</h2>
 
 <p>
 <b>Global SuperStore Sales Dashboard</b><br>
